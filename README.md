@@ -6,7 +6,7 @@
 
 Currently, I am *open to work* and i am currently learing *ReactJS*.I works Freelance Focused on Developing performant websites and designs.I'm A very outgoing and curious person, who's passionate about coding, Photography, Nature, and Music. I love to stare at a not-so bright screen while coding on a constant state of flow.
 
-- 📫 Reach me at *mnihu007@gmail.com*
+- 📫 Reach me at *iam@nihalmohammedm.in*
 
 
 *🔨 Languages and Tools*  
