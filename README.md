@@ -16,3 +16,4 @@ src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt
 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cpp" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="vscode" width="40" height="40"/><img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="ps" width="40" height="40"/><img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/icons/bootstrap/bootstrap-original.svg" alt="vscode" width="40" height="40"/>
