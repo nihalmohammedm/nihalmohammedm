@@ -1,5 +1,5 @@
 # Hey, I'm Nihal Mohammed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### Student, UI/UX Designer & Front-End Developer
+### The friendly neighbourhood designer 👨🏻‍💻
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shiyas-mohammed-75382a215/)](https://www.linkedin.com/in/nihalmohammedm)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/nihalmohammedm/)](https://www.instagram.com/nihalmohammedm/)
 
