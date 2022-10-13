@@ -3,7 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shiyas-mohammed-75382a215/)](https://www.linkedin.com/in/nihalmohammedm)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/nihalmohammedm/)](https://www.instagram.com/nihalmohammedm/)
 
-Currently, I am *open to work* and i am currently learing *ReactJS*.I works Freelance Focused on Developing performant websites and designs.I'm A very outgoing and curious person, who's passionate about coding, Photography, Nature, and Music. I love to stare at a not-so bright screen while coding on a constant state of flow.
 - 📫 Reach me at *iam@nihalmohammedm.in*
 
 *🔨 Languages and Tools*  
