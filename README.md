@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shiyas-mohammed-75382a215/)](https://www.linkedin.com/in/nihalmohammedm)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/nihalmohammedm/)](https://www.instagram.com/nihalmohammedm/)
 
-- 📫 Reach me at *iam@nihalmohammedm.in*
+- 📫 Reach me at *mnihu007@gmail.com*
 
 *🔨 Languages and Tools*  
 
